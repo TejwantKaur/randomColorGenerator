@@ -15,6 +15,7 @@ button{
     border-radius: 2rem;
     padding: 0.7rem 1.5rem;
     background-color: #A78295;
+    /* color: rgb(35,13,12); */
     color: #331D2C;
     line-height: 1rem;
     font-size: 1rem;
@@ -22,6 +23,7 @@ button{
 }
 button:hover{
     background-color: #c390aa;
+    font-family: ;
 }
 
 div{
@@ -35,5 +37,7 @@ div{
     align-items: center;
 }
 div p{
+    line-height: 2.25rem;
+    font-size: 1.2rem;
     color: aliceblue;
 }
